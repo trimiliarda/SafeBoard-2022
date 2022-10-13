@@ -7,7 +7,7 @@
 """
 
 alias ff() {
-  gcc  ~/ff.c -o ~/ff;
+  gcc  ff.c -o ~/ff;
   ~/./ff "$1";
   rm ~/ff;
 }
