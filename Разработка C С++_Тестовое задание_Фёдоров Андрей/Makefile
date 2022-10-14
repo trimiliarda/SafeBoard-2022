@@ -1,4 +1,4 @@
-(flag)=-Wall -Werror -Wextra
+flag=-Wall -Werror -Wextra
 
 all: main
 
